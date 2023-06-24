@@ -1,0 +1,17 @@
+.favorite{
+    background-color: black;
+    display: flex;
+    flex-wrap: row;
+    flex-wrap: wrap; 
+}
+.ere{
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+     gap: 0.1rem; 
+}
+.displays{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}

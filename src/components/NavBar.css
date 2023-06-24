@@ -1,0 +1,14 @@
+.input-taker{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+.input-taker input{
+    width: 15rem;
+    height: 3rem;
+}
+.input-taker button{
+    width: 5rem;
+}

@@ -1,0 +1,17 @@
+.food-item{
+    display: flex;
+    flex-direction: column;
+    gap: 0.01rem;
+    
+
+}
+
+.name{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    justify-content: space-around;
+    position: relative;
+    top: 0.05rem;
+    background-color: cornsilk;
+}

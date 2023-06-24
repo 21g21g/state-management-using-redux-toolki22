@@ -1,0 +1,10 @@
+.main-page{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 0.2rem;
+    justify-content: center;
+    gap: 1rem;
+
+}
